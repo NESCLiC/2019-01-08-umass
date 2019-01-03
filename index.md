@@ -174,7 +174,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% else %}
     to-be-announced
   {% endif %}
-  for more information.
+  for more information. REGISTRATION IS NOW CLOSED.
 </p>
 
 <hr/>
